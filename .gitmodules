@@ -1,51 +1,51 @@
 [submodule "ohjelmointi/html-ja-css/01-harjoitus"] 
   path = ohjelmointi/html-ja-css/01-harjoitus
-  url = git://https://github.com/AnnamariKoo/01-harjoitus/
+  url = https://github.com/AnnamariKoo/01-harjoitus/
 [submodule "ohjelmointi/html-ja-css/02-fontti-muotoilut"] 
   path = ohjelmointi/html-ja-css/02-fontti-muotoilut
-  url = git://https://github.com/AnnamariKoo/02-fontti-muotoilut/
+  url = https://github.com/AnnamariKoo/02-fontti-muotoilut/
 [submodule "ohjelmointi/html-ja-css/03-kolme-laatikkoa"] 
   path = ohjelmointi/html-ja-css/03-kolme-laatikkoa
-  url = git://https://github.com/AnnamariKoo/03-kolme-laatikkoa/
+  url = https://github.com/AnnamariKoo/03-kolme-laatikkoa/
 [submodule "ohjelmointi/html-ja-css/04-semanttiset-tagit"] 
   path = ohjelmointi/html-ja-css/04-semanttiset-tagit
-  url = git://https://github.com/AnnamariKoo/04-semanttiset-tagit/
+  url = https://github.com/AnnamariKoo/04-semanttiset-tagit/
 [submodule "ohjelmointi/html-ja-css/05-media-query"] 
   path = ohjelmointi/html-ja-css/05-media-query
-  url = git://https://github.com/AnnamariKoo/05-media-query/
+  url = https://github.com/AnnamariKoo/05-media-query/
 [submodule "ohjelmointi/html-ja-css/06-flexbox-harjoitus"] 
   path = ohjelmointi/html-ja-css/06-flexbox-harjoitus
-  url = git://https://github.com/AnnamariKoo/06-flexbox-harjoitus/
+  url = https://github.com/AnnamariKoo/06-flexbox-harjoitus/
 [submodule "ohjelmointi/html-ja-css/07-citrus-cafe"] 
   path = ohjelmointi/html-ja-css/07-citrus-cafe
-  url = git://https://github.com/AnnamariKoo/07-citrus-cafe/
+  url = https://github.com/AnnamariKoo/07-citrus-cafe/
 [submodule "ohjelmointi/html-ja-css/08-grid-harjoitus"] 
   path = ohjelmointi/html-ja-css/08-grid-harjoitus
-  url = git://https://github.com/AnnamariKoo/08-grid-harjoitus/
+  url = https://github.com/AnnamariKoo/08-grid-harjoitus/
 [submodule "ohjelmointi/html-ja-css/09-kuvaesitys-gridilla"] 
   path = ohjelmointi/html-ja-css/09-kuvaesitys-gridilla
-  url = git://https://github.com/AnnamariKoo/09-kuvaesitys-gridilla/
+  url = https://github.com/AnnamariKoo/09-kuvaesitys-gridilla/
 [submodule "ohjelmointi/html-ja-css/10-grid-kuvaesitys-soveltaminen"] 
   path = ohjelmointi/html-ja-css/10-grid-kuvaesitys-soveltaminen
-  url = git://https://github.com/AnnamariKoo/10-grid-kuvaesitys-soveltaminen/
+  url = https://github.com/AnnamariKoo/10-grid-kuvaesitys-soveltaminen/
 [submodule "ohjelmointi/html-ja-css/11-luovaa-kelluttamista"] 
   path = ohjelmointi/html-ja-css/11-luovaa-kelluttamista
-  url = git://https://github.com/AnnamariKoo/11-luovaa-kelluttamista/
+  url = https://github.com/AnnamariKoo/11-luovaa-kelluttamista/
 [submodule "ohjelmointi/html-ja-css/12-responsiivinen-kuva-albumi"] 
   path = ohjelmointi/html-ja-css/12-responsiivinen-kuva-albumi
-  url = git://https://github.com/AnnamariKoo/12-responsiivinen-kuva-albumi/
+  url = https://github.com/AnnamariKoo/12-responsiivinen-kuva-albumi/
 [submodule "ohjelmointi/html-ja-css/13-pretzel-responsiivinen-sivusto"] 
   path = ohjelmointi/html-ja-css/13-pretzel-responsiivinen-sivusto
-  url = git://https://github.com/AnnamariKoo/13-pretzel-responsiivinen-sivusto/
+  url = https://github.com/AnnamariKoo/13-pretzel-responsiivinen-sivusto/
 [submodule "ohjelmointi/html-ja-css/14-one-page-site"] 
   path = ohjelmointi/html-ja-css/14-one-page-site
-  url = git://https://github.com/AnnamariKoo/14-one-page-site/
+  url = https://github.com/AnnamariKoo/14-one-page-site/
 [submodule "ohjelmointi/html-ja-css/flexbox-malli-auki"] 
   path = ohjelmointi/html-ja-css/flexbox-malli-auki
-  url = git://https://github.com/AnnamariKoo/flexbox-malli-auki/
+  url = https://github.com/AnnamariKoo/flexbox-malli-auki/
 [submodule "ohjelmointi/html-ja-css/vihje-laatikosta"] 
   path = ohjelmointi/html-ja-css/vihje-laatikosta
-  url = git://https://github.com/AnnamariKoo/vihje-laatikosta/
+  url = https://github.com/AnnamariKoo/vihje-laatikosta/
 [submodule "ohjelmointi/javascript-ohjelmointi/pancake-tilaussivusto"] 
   path = ohjelmointi/javascript-ohjelmointi/pancake-tilaussivusto
-  url = git://https://github.com/AnnamariKoo/pannukakku-tilaussivusto
+  url = https://github.com/AnnamariKoo/pannukakku-tilaussivusto

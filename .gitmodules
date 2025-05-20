@@ -46,3 +46,6 @@
 [submodule "ohjelmointi/html-ja-css/vihje-laatikosta"] 
   path = ohjelmointi/html-ja-css/vihje-laatikosta
   url = git://github.com/AnnamariKoo/vihje-laatikosta/
+[submodule "ohjelmointi/javascript-ohjelmointi/pancake-tilaussivusto"] 
+  path = ohjelmointi/javascript-ohjelmointi/pancake-tilaussivusto
+  url = git://https://github.com/AnnamariKoo/pannukakku-tilaussivusto
